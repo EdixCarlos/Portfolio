@@ -4,6 +4,8 @@
 </h2>
 <div align="center">
   <!-- <img alt="Demo" src="./Images/readme-img1.png" /> -->
+  ![Pose](https://user-images.githubusercontent.com/74202934/156460944-94a7617b-e558-47b2-8b8f-9c2ff9ccff57.svg)
+
 </div>
 
 <br/>
