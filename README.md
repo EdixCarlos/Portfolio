@@ -4,7 +4,7 @@
 </h2>
 <div align="center">
   <!-- <img alt="Demo" src="./Images/readme-img1.png" /> -->
-  ![Pose](https://user-images.githubusercontent.com/74202934/156460944-94a7617b-e558-47b2-8b8f-9c2ff9ccff57.svg)
+  
 
 </div>
 
@@ -14,6 +14,8 @@
 ## Built With
 
 My personal portfolio 
+![Pose](https://user-images.githubusercontent.com/74202934/156461003-ca39f52f-46bc-44e1-bece-33f99a80544d.svg)
+
 This project was built using these technologies.
 
 - React.js
